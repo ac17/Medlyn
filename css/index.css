@@ -54,7 +54,7 @@ html, body, .container {
   .carousel-inner {
     .item {
       opacity: 0;
-      transition-property: opacity;
+      transition: opacity 1s;
     }
 
     .active {
