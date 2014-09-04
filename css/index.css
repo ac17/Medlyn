@@ -10,15 +10,15 @@ body {
 }
 
 #img-3 {
-	background-image: url("img/cats.png");
+	background-image: url("../img/cats.png");
 }
 
 #img-2 {
-	background-image: url("img/self-portrait.jpg");
+	background-image: url("../img/self-portrait.jpg");
 }
 
 #img-1 {
-	background-image: url("img/venice-cropped.jpg");
+	background-image: url("../img/venice-cropped.jpg");
 }
 
 .carousel-control.left, .carousel-control.right {
