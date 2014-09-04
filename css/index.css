@@ -20,3 +20,7 @@ body {
 #img-1 {
 	background-image: url("img/venice-cropped.jpg");
 }
+
+.carousel-control.left, .carousel-control.right {
+	background-image: none;
+}
