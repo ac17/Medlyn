@@ -1,5 +1,6 @@
-body {
+html, body, .container {
 	background-color: black;
+	height: 100%;
 }
 
 .carousel {
