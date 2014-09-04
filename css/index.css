@@ -1,0 +1,22 @@
+body {
+	background-color: black;
+}
+
+.carousel-slide-img {
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+	width: 100%;
+}
+
+#img-3 {
+	background-image: url("img/cats.png");
+}
+
+#img-2 {
+	background-image: url("img/self-portrait.jpg");
+}
+
+#img-1 {
+	background-image: url("img/venice-cropped.jpg");
+}
